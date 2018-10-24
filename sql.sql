@@ -19,5 +19,5 @@ VALUES
 ('coffee beans', 'grocery', 7.99, 10),
 ('bananas', 'grocery', 0.49, 10),
 ('cat food', 'pet care', 15.79, 1),
-('phone chargers', 'technology', 7, 19)
+('phone chargers', 'technology', 7, 19);
 -- things you want to add go here
