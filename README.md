@@ -27,7 +27,7 @@ Managers can use Bamazon to complete an array of options within their store.
 
 ##### View low inventory
 
-![image of low inventory](/screenshots/lowinventory.png)
+![image of low inventory](/screenshots/lowInventory.png)
 
 ##### Add inventory to existing products
 
