@@ -22,26 +22,26 @@ Customers can use Bamazon to view products, then by entering the ID and the quan
 Managers can use Bamazon to complete an array of options within their store.
 
 ![image of manager options]
-(screenshots/manageroptions)
+(/screenshots/manageroptions)
 
 ##### View products
 
 ![image of manager view products]
-(screenshots/viewProducts)
+(/screenshots/viewProducts)
 
 ##### View low inventory
 
 ![image of low inventory]
-(screenshots/lowinventory)
+(/screenshots/lowinventory)
 
 ##### Add inventory to existing products
 
 ![image of adding inventory]
-(screenshots/addTo)
+(/screenshots/addTo)
 
 ##### Add new products
 
 ![image of adding a new product]
-(screenshots/addNew)
+(/screenshots/addNew)
 
 
