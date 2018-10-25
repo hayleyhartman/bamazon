@@ -11,37 +11,30 @@ This application uses javascript, NPM, MySql
 
 Customers can use Bamazon to view products, then by entering the ID and the quantity they would like, they can purchase the product.
 
-![image of customer view]
-(screenshots/customer)
+![image of customer view](screenshots/customer.png)
 
-![image of completed transaction]
-(screenshots/customerBuy)
+![image of completed transaction](screenshots/customerBuy.png)
 
 ### Manager view
 
 Managers can use Bamazon to complete an array of options within their store.
 
-![image of manager options]
-(/screenshots/manageroptions.png)
+![image of manager options](/screenshots/manageroptions.png)
 
 ##### View products
 
-![image of manager view products]
-(/screenshots/viewProducts.png)
+![image of manager view product](/screenshots/viewProducts.png)
 
 ##### View low inventory
 
-![image of low inventory]
-(/screenshots/lowinventory.png)
+![image of low inventory](/screenshots/lowinventory.png)
 
 ##### Add inventory to existing products
 
-![image of adding inventory]
-(/screenshots/addTo.png)
+![image of adding inventory](/screenshots/addTo.png)
 
 ##### Add new products
 
-![image of adding a new product]
-(/screenshots/addNew.png)
+![image of adding a new product](/screenshots/addNew.png)
 
 
