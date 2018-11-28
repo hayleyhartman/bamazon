@@ -7,6 +7,15 @@ Bamazon is an application made by me, Hayley Hartman, in October 2018. Bamazon i
 
 This application uses javascript, NPM, MySql
 
+### How to use
+
+1. Clone this repository to your computer
+2. Enter your local copy of this repository
+3. Run npm install
+4. Open this repository in Visual Studio Code (or whatever editor you use)
+5. Run the sql.sql file to give you a local copy of the tables bamazon works on
+6. Run node customer or node manager to interact with bamazon
+
 ### Customer view
 
 Customers can use Bamazon to view products, then by entering the ID and the quantity they would like, they can purchase the product.
